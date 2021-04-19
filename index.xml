@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pranav Kottoli Radhakrishna on My New Hugo Site</title>
+    <link>https://pranavkr66.github.io/Pranav_Portfolio/</link>
+    <description>Recent content in Pranav Kottoli Radhakrishna on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://pranavkr66.github.io/Pranav_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://pranavkr66.github.io/Pranav_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranavkr66.github.io/Pranav_Portfolio/about/</guid>
+      <description> Data Science and analytics are my passion. My name is Pranav Kottoli Radhakrishna. I&amp;rsquo;m a Data Scientist with a strong background in Software Development. Through my coursework, I have gained experience with Data visualization, Machine Learning, Data Analysis, and Statistics. I have worked on several projects that make use of Data Science and Data Analytics to answer questions using data
+Skills and Tools    Pages Elements     Languages Python | R | SQL | Pyspark   Machine Learning: pandas | numpy | sklearn | PyTorch | SparkML | caret   Visualization seaborn | matplotlib | ggplot | Tableau    </description>
+    </item>
+    
+    <item>
+      <title>background</title>
+      <link>https://pranavkr66.github.io/Pranav_Portfolio/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranavkr66.github.io/Pranav_Portfolio/experience/</guid>
+      <description>Experience iConsult Collaborative Data Scientist Aug 2020-Present  Responsibilities:  Interacting with healthcare staff at Crouse Hospital to identify factors that are most likely to indicate Diabetes. Building an ETL pipeline to transform and load raw data into SQL Server in a format suitable for Machine Learning. Designing a workflow in Alteryx to construct a prediction model to diagnose over 200,000 patients.   Syracuse University Graduate Teaching Assistant: Big Data Analytics Aug 2020-Dec 2020  Responsibilities:  Mentored students in concepts like Regression, Artificial Neural Networks, Decision Trees and Ensemble Learning.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://pranavkr66.github.io/Pranav_Portfolio/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranavkr66.github.io/Pranav_Portfolio/projects/</guid>
+      <description>Credit Default Risk Prediction Mar 2020-May 2020  Description: The major goal of this project is to find a robust way to assess whether a potential customer will default on a loan using historical customer data. This is a binary classification problem that was solved using the Logistic Regression, Random Forest and Gradient Boosting algorithms.
+Project Code
+Project Dashboard
+ Grocery Store Sales Forecasting Oct 2020-Nov 2020  Description: The goal of this project is to predict the sales of an Ecuadorian grocery store chain using multi-step time series data.</description>
+    </item>
+    
+  </channel>
+</rss>
